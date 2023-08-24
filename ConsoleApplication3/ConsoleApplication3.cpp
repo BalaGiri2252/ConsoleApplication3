@@ -7,4 +7,6 @@ int main()
 {
     std::cout << "Hello World!\n";
     cout<<"Hello India"<<endl;
+
+    cout<<"the intelign of the program"<<endl;
 }
